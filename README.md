@@ -23,3 +23,7 @@ Built using Arduino Uno and DHT11 sensor.
 - Sensor integration
 - Conditional logic
 - Hardware debugging
+
+## Project Prototype
+
+![Prototype](project-photo.jpg)
