@@ -26,4 +26,4 @@ Built using Arduino Uno and DHT11 sensor.
 
 ## Project Prototype
 
-![Prototype](project-photo.jpg)
+![Prototype](project-photo.jpeg)
